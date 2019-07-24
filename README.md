@@ -4,7 +4,7 @@ Jogo de xadrez rodando em console Windows.
 
 ## Configuração para Desenvolvimento
 
-É necessário ter instalado na máquina o [.NET Framework](https://dotnet.microsoft.com/download/dotnet-framework) 4.5 ou superior.
+É necessário ter instalado na máquina o [.NET Framework](https://dotnet.microsoft.com/download/dotnet-framework) 4.0 ou superior.
 Para rodar o projeto basta abrir xadrez-console.sln no Visual Studio e debugar.
 
 ## Como contribuir?
