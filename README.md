@@ -12,4 +12,4 @@ Este é um projeto Open Source, portanto pull requests são bem vindas.
 Para registrar ideias ou reportar bug's e erros devem ser criadas Issues.
 
 ## Licença
-[MIT](https://choosealicense.com/licenses/mit/)
+[MIT](https://github.com/CarlaPaiva/xadrez-console/blob/master/LICENSE)
