@@ -31,6 +31,7 @@ namespace xadrez_console
             string posEntrada = Console.ReadLine();
             char coluna = posEntrada[0];
             int linha = int.Parse(posEntrada[1] + "");
+
             return new PosicaoXadrez(coluna, linha);
         }
 
