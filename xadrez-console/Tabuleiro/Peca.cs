@@ -20,6 +20,11 @@
             this.qtdMovimentos++;
         }
 
+        public void decrementarQrdMovimentos()
+        {
+            this.qtdMovimentos--;
+        }
+
         public bool existeMovimentosPossiveis()
         {
             bool[,] mat = movimentosPossiveis();
